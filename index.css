@@ -1,0 +1,11 @@
+#messageBox{
+    background: lavender;
+    padding: 5px 10px ;
+    margin:5px;
+}
+.sendButton{
+    background: gold;
+    padding: 5px 10px ;
+    margin:5px;
+    cursor: pointer;
+}
